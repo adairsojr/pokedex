@@ -43,7 +43,7 @@ $(document).ready(function () {
                 cardHead.addClass("text-center mt-3");
 
                 var cardImg = $(document.createElement("div"));
-                cardImg.addClass("text-center text-nowrap w-50 rounded-circle bg-light mx-auto");
+                cardImg.addClass("text-center text-nowrap w-50 rounded-circle bg-danger mx-auto");
 
                 var img = $(document.createElement("img"));
                 img.addClass("card-img-top w-100");
